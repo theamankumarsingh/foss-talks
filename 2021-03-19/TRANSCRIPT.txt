@@ -1,0 +1,68 @@
+COMPAQ
+-Introduction (What is compaq) X1
+-Brief History X1
+-Successful Products X4
+-Success X1
+-Fall of Compaq X1
+-Reasons X1
+-What could have they done X1
+
+-Introduction
+What is compaq?
+Compaq (a portmanteau of Compatibility And Quality.) was an American information technology company founded in 1982 that developed, sold, and supported computers and related products and services.
+
+Compaq produced some of the first IBM PC compatible computers, being the first company to legally reverse engineer the IBM Personal Computer.
+
+It rose to become the largest supplier of PC systems during the 1990s before being overtaken by HP in 2001.
+
+Besides that, it created to set records as a startup, highly regarded desktop PCs and servers, and  usurped IBM as the standard bearer in the PC market.
+
+-Brief History
+Compaq was founded in February 1982 by Rod Canion, Jim Harris, and Bill Murto, three senior managers from semiconductor manufacturer Texas Instruments. 
+
+Unlike many startups, Compaq differentiated its offerings from the many other IBM clones by not focusing mainly on price, but instead concentrating on new features, such as portability and better graphics displays as well as performance—and all at prices comparable to those of IBM's PCs.
+
+-Successful Products
+--Compaq Portable (1982)
+The debut Compaq machine an relatively inexpensive alternative to IBM's official Personal Computer. It sold very well (over 50,000 units in its first year), setting the stage for Compaq's continued success.
+
+--Compaq DeskPro (1984)
+As Compaq's Portable machines continued to sell briskly, the firm dipped into the desktop PC clone market with the DeskPro, with the top-of-the-line model included a 10MB hard drive, a 10MB removable tape drive, and 640K of RAM. The DeskPro was well-received by critics in the increasingly crowded PC compatible market. 
+
+--Compaq SLT/286 (1988)
+Compaq shipped the SLT/286, which was possibly the first laptop in the world to ship with a VGA resolution LCD screen (monochrome, 640 by 480). 
+
+--Compaq SystemPro (1989)
+The SystemPro carried a hefty, mainframe-like price and shipped with capabilities practically unheard of in the PC space: a dual CPU option, redundant disk array support (four hard drives tied together in a precursor to RAID), and the new EISA bus, intended as an industry-standard alternative to IBM's Micro Channel architecture.
+
+-Success
+During its first year of sales (second year of operation), the company sold 53,000 PCs for sales of $111 million, the first start-up to hit the $100 million mark that fast.
+
+It reached the list of Fortune 500 companies (1986) faster than any organization before—less than four years after its founding.
+
+It was also the youngest company to reach $1 billion in annual sales (1987).
+
+-Fall of Compaq
+Included 15 years at the top of the PC industry Compaq had a storied life, but in 2001 its fall came swiftly.
+
+The early 1990s saw Canion ousted from the company he fought so hard to grow due to stark differences in business thinking with the other senior leadership.
+
+The company acquired Tandem Computers, a mainframe computer maker, for $3 billion in 1997. It then acquired Digital Equipment Corporation (DEC) in 1998 for $9.6 billion.
+
+When it merged with Digital Equipment Corporation, or DEC, the beginning of the end came for Compaq.
+
+The merger with HP that provided the nail in the coffin for the already struggling company.
+
+-Reasons
+Acquisition of DEC: DEC had a whole bunch of stuff Compaq didn’t wanted.  DEC made computer chips. DEC’s chips weren’t Intel x86-compatible, so they weren’t useful for Compaq’s existing businesses.
+
+Intel: Intel started producing chipsets and motherboards, stabilizing the PC field.  Once this happened, other companies could just buy motherboards and CPUs from Intel and put them in their own cases. The resulting computer was cheaper than a Compaq and almost as good.
+
+dot-com bust:  Compaq's finances slowly started to unravel. Their strategy of selling premium machines at premium costs also became unpopular very quickly in the aftermath, leaving large stocks of inventory. On the other hand, HP and Dell's strategy of everyday, multipurpose computers, selling through more direct methods instead of middlemen cut costs and kept inventories relatively low.
+
+Aggressive strategy: Marketing efforts shifted from price to premium products. The network of middlemen sellers that were experienced with the price war strategy were now instructed to sell premium devices with value adding services. They were also given very high sales targets.
+
+-What could have they done?
+Compaq, a young and thriving company then went ahead to annex an old and dying DEC. DEC acquisition was much larger and more complicated. That was a bad move and should not have been done.
+
+Compaq should have focus on their initial business strategy of price value for customers, intead of going towards premium products.
